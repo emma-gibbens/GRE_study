@@ -1,10 +1,12 @@
 # Study Drawer
 
 GRE flashcards for vocabulary and math, with spaced repetition (Leitner boxes),
-tag filtering, and a streak counter. Progress is saved in the browser's
+tag filtering, and a streak counter. Progress is saved in your browser's
 localStorage, so it persists between visits on the same device and browser.
 
-I access at the following website: https://emma-gibbens.github.io/GRE_study/
+Access at the following website: https://emma-gibbens.github.io/GRE_study/
+
+
 
 ## Run it locally
 
