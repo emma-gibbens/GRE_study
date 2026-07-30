@@ -192,8 +192,8 @@
     "id": "m40",
     "deck": "math",
     "tag": "Geometry: Triangles & Angles",
-    "front": "3-4-5 and 5-12-13 triangles",
-    "back": "Common right triangle ratios worth memorizing so you can skip the Pythagorean theorem entirely."
+    "front": "Common right triangles",
+    "back": "3-4-5 and 5-12-13 triangles are common right triangle ratios worth memorizing so you can skip the Pythagorean theorem entirely."
   },
   {
     "id": "m42",
@@ -376,13 +376,6 @@
     "tag": "Percentages & Ratios",
     "front": "Weighted average shortcut",
     "back": "A weighted average sits closer to the value with more weight. Three tests averaging 80 plus one test of 100 pulls the overall average only slightly above 80."
-  },
-  {
-    "id": "m59",
-    "deck": "math",
-    "tag": "Statistics & Probability",
-    "front": "Basic probability",
-    "back": "Probability = favorable outcomes ÷ total possible outcomes."
   },
   {
     "id": "m62",
