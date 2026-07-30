@@ -25,7 +25,7 @@
     "deck": "math",
     "tag": "Algebra Shortcuts",
     "front": "Factoring the difference of squares (a² − b²)",
-    "back": "[a² − b² = (a + b)(a − b)"
+    "back": "a² − b² = (a + b)(a − b)"
   },
   {
     "id": "m21",
@@ -60,7 +60,7 @@
     "deck": "math",
     "tag": "Algebra Shortcuts",
     "front": "Systems with no unique solution",
-    "back": "If one equation in a system is just a multiple of the other, there is no single unique solution, just infinitely many."
+    "back": "If one equation is a multiple of the other's entire equation (including the constant), the system has infinitely many solutions (same line). If only the variable terms are proportional but the constants aren't, the system has no solution (parallel lines). Either way, there's no single unique solution."
   },
   {
     "id": "m15",
@@ -1265,7 +1265,7 @@
     "tag": "Themed Vocab",
     "front": "Desecrate",
     "pos": "v",
-    "back": "To treat something sacred with violent disrespect.",
+    "back": "To violate the sanctity of something sacred; to treat it with gross disrespect.",
     "example": "Vandals desecrated the old cemetery, and the town was outraged."
   },
   {
@@ -1417,8 +1417,8 @@
     "deck": "vocab",
     "tag": "Themed Vocab",
     "front": "Jingoist",
-    "pos": "adj",
-    "back": "Extremely and aggressively patriotic.",
+    "pos": "n/adj",
+    "back": "A person with extreme, belligerent, aggressive patriotism or nationalism; also used as an adjective (equivalent to 'jingoistic') to describe that attitude.",
     "example": "The jingoist rhetoric drowned out any real policy discussion."
   },
   {
@@ -2698,5 +2698,75 @@
     "pos": "n",
     "back": "The defining spirit or mood of a particular period.",
     "example": "The film captured the zeitgeist of a country in the middle of change."
+  },
+  {
+    "id": "m72",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Square: area & perimeter",
+    "back": "Area = s². Perimeter = 4s, where s is the side length."
+  },
+  {
+    "id": "m73",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Rectangle perimeter",
+    "back": "Perimeter = 2l + 2w, where l = length and w = width. (Rectangle area = l × w is covered separately.)"
+  },
+  {
+    "id": "m74",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Divisibility by 5",
+    "back": "A number is divisible by 5 if its last digit is 0 or 5."
+  },
+  {
+    "id": "m75",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Divisibility by 6",
+    "back": "A number is divisible by 6 if it's even AND the sum of its digits is a multiple of 3."
+  },
+  {
+    "id": "m76",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Divisibility by 8",
+    "back": "A number is divisible by 8 if its last three digits form a number divisible by 8."
+  },
+  {
+    "id": "m77",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Definition of an integer",
+    "back": "Any whole number, positive, negative, or zero (…,−2,−1,0,1,2,…). No fractions or decimals. On the GRE, 'integer' never implies positive."
+  },
+  {
+    "id": "m78",
+    "deck": "math",
+    "tag": "Coordinate Geometry",
+    "front": "Distance formula (coordinate plane)",
+    "back": "Distance = √[(x₂−x₁)² + (y₂−y₁)²]. It's just the Pythagorean theorem applied to two points."
+  },
+  {
+    "id": "m79",
+    "deck": "math",
+    "tag": "Coordinate Geometry",
+    "front": "Slope-intercept form of a line",
+    "back": "y = mx + b, where m is the slope and b is the y-intercept. Slope m = (y₂ − y₁) ÷ (x₂ − x₁)."
+  },
+  {
+    "id": "m80",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "Average interior angle of a regular polygon",
+    "back": "[(n − 2) × 180°] ÷ n. Divide the interior angle sum by the number of sides."
+  },
+  {
+    "id": "m81",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Combination & permutation formulas",
+    "back": "nCr = n! ÷ [r!(n−r)!] (order doesn't matter). nPr = n! ÷ (n−r)! (order matters). n = total items, r = number chosen."
   }
 ]
