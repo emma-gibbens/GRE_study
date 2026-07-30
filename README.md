@@ -61,19 +61,64 @@ for public repositories. If this repo is private, Pages hosting needs a paid
 GitHub plan (Pro, Team, or Enterprise). Since this is just flashcard content,
 a public repo is usually fine, but it's your call.
 
-## Adding more cards later
+## Adding, removing, or editing flashcards
 
-Open `src/App.jsx` and look for the `CARDS_DATA` constant near the top, it's
-a plain array of objects like:
+All flashcard content lives in one file: **`src/cards.json`**. It's a plain
+array, one card per entry:
 
-```js
-{ "id": "v0", "deck": "vocab", "tag": "By the Letter", "front": "Aberration",
-  "pos": "n", "back": "A departure from what is normal or expected.",
-  "example": "The freak snowstorm in July was an aberration." }
+```json
+{
+  "id": "v0",
+  "deck": "vocab",
+  "tag": "By the Letter",
+  "front": "Aberration",
+  "pos": "n",
+  "back": "A departure from what is normal or expected.",
+  "example": "The freak snowstorm in July was an aberration."
+}
 ```
 
-You can hand-edit that array, or just use the in-app "Add a card" form, which
-saves to localStorage and doesn't require touching code or redeploying.
+`deck` must be exactly `"vocab"` or `"math"`. `pos` and `example` are
+optional (math cards skip both). `id` just needs to be unique across the
+whole file, `v244`, `custom1`, anything you haven't used already is fine.
+
+**To edit a card:** find it (Cmd+F for the word or phrase) and change the
+text.
+
+**To remove a card:** delete its whole `{ ... }` block, including the comma
+that follows it (or precedes it, if you're deleting the last card in the
+file).
+
+**To add a card:** copy an existing block, paste it, give it a new `id`, and
+fill in the rest.
+
+Because this edits the source file directly, every visitor to the site sees
+your changes, not just you, once it's pushed and deployed. This is different
+from the in-app "Add a card" form, which only saves to that one visitor's own
+browser and never touches this file.
+
+**Before pushing**, it's worth running:
+
+```bash
+npm run check-cards
+```
+
+This catches the most common hand-editing mistakes, broken JSON syntax
+(a missing comma is the usual culprit), a duplicate id, a missing field, or
+a mistyped `deck` value, and tells you exactly which card has the problem.
+The GitHub Actions workflow runs this same check automatically before every
+deploy, so a bad edit fails the build with a clear message instead of
+quietly breaking the live site. The site only updates once a build succeeds,
+so the previous working version stays up in the meantime.
+
+## Who can edit this
+
+Making the repo public only affects who can *see* and clone the code, not
+who can change it. Editing rights are controlled separately, by who has
+collaborator (push) access to the repo, which is just you unless you
+explicitly add someone under **Settings → Collaborators**. Visitors to the
+deployed site can't touch the source at all, they're just viewing the built
+result of whatever you last pushed to `main`.
 
 ## Notes on the data
 

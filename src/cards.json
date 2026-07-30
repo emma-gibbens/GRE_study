@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "m22",
+    "deck": "math",
+    "tag": "Algebra Shortcuts",
+    "front": "Absolute value equations",
+    "back": "|x| = a means x = a OR x = −a (for a ≥ 0). Always split into two cases."
+  },
+  {
+    "id": "m23",
+    "deck": "math",
+    "tag": "Algebra Shortcuts",
+    "front": "Absolute value inequalities",
+    "back": "|x| < a means −a < x < a. |x| > a means x < −a OR x > a."
+  },
+  {
+    "id": "m26",
+    "deck": "math",
+    "tag": "Algebra Shortcuts",
+    "front": "Backsolving from answer choices",
+    "back": "For \"solve for x\" questions, start with the middle answer choice and plug it back into the original equation."
+  },
+  {
+    "id": "m18",
+    "deck": "math",
+    "tag": "Algebra Shortcuts",
+    "front": "Difference of squares",
+    "back": "a² − b² = (a + b)(a − b). One of the most common GRE factoring patterns."
+  },
+  {
+    "id": "m21",
+    "deck": "math",
+    "tag": "Algebra Shortcuts",
+    "front": "Flipping inequality signs",
+    "back": "Multiplying or dividing both sides of an inequality by a negative number flips the inequality sign."
+  },
+  {
+    "id": "m20",
+    "deck": "math",
+    "tag": "Algebra Shortcuts",
+    "front": "FOIL",
+    "back": "(a + b)(c + d) = ac + ad + bc + bd. First, Outer, Inner, Last."
+  },
+  {
+    "id": "m19",
+    "deck": "math",
+    "tag": "Algebra Shortcuts",
+    "front": "Perfect square trinomial",
+    "back": "a² + 2ab + b² = (a + b)². Recognize this pattern to factor instantly."
+  },
+  {
+    "id": "m25",
+    "deck": "math",
+    "tag": "Algebra Shortcuts",
+    "front": "Plugging in numbers for variables",
+    "back": "When a question uses only variables, plug in simple numbers (like 2 and 3) to test the answer choices."
+  },
+  {
+    "id": "m24",
+    "deck": "math",
+    "tag": "Algebra Shortcuts",
+    "front": "Systems with no unique solution",
+    "back": "If one equation in a system is just a multiple of the other, there is no single unique solution, just infinitely many."
+  },
+  {
+    "id": "m15",
+    "deck": "math",
+    "tag": "Exponents & Roots",
+    "front": "Adding exponential terms, same base",
+    "back": "You can't add exponents directly. 2^3 + 2^3 = 2 × 2^3 = 2^4, not 2^6. Factor out the common term first."
+  },
+  {
+    "id": "m10",
+    "deck": "math",
+    "tag": "Exponents & Roots",
+    "front": "Dividing same base",
+    "back": "a^m ÷ a^n = a^(m−n). Subtract exponents when dividing."
+  },
+  {
+    "id": "m14",
+    "deck": "math",
+    "tag": "Exponents & Roots",
+    "front": "Fractional exponent",
+    "back": "a^(1/n) is the nth root of a. a^(m/n) is the nth root of a, raised to the m power."
+  },
+  {
+    "id": "m9",
+    "deck": "math",
+    "tag": "Exponents & Roots",
+    "front": "Multiplying same base",
+    "back": "a^m × a^n = a^(m+n). Add the exponents when multiplying."
+  },
+  {
+    "id": "m12",
+    "deck": "math",
+    "tag": "Exponents & Roots",
+    "front": "Negative exponent",
+    "back": "a^(−n) = 1 ÷ a^n. A negative exponent flips to a fraction, it does not make the value negative."
+  },
+  {
+    "id": "m17",
+    "deck": "math",
+    "tag": "Exponents & Roots",
+    "front": "Perfect squares to memorize",
+    "back": "1, 4, 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196, 225. Knowing these speeds up simplifying roots."
+  },
+  {
+    "id": "m11",
+    "deck": "math",
+    "tag": "Exponents & Roots",
+    "front": "Power of a power",
+    "back": "(a^m)^n = a^(mn). Multiply the exponents."
+  },
+  {
+    "id": "m16",
+    "deck": "math",
+    "tag": "Exponents & Roots",
+    "front": "Square root of a product",
+    "back": "√(ab) = √a × √b, but √(a+b) ≠ √a + √b. Roots distribute over multiplication, not addition."
+  },
+  {
+    "id": "m13",
+    "deck": "math",
+    "tag": "Exponents & Roots",
+    "front": "Zero exponent",
+    "back": "Any nonzero number raised to the 0 power equals 1. a^0 = 1."
+  },
+  {
+    "id": "m47",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Arc length",
+    "back": "Arc length = (central angle ÷ 360°) × circumference."
+  },
+  {
+    "id": "m46",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Circle area",
+    "back": "A = πr²."
+  },
+  {
+    "id": "m45",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Circle circumference",
+    "back": "C = 2πr = πd."
+  },
+  {
+    "id": "m49",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Rectangle & triangle area",
+    "back": "Rectangle: length × width. Triangle: ½ × base × height."
+  },
+  {
+    "id": "m48",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Sector area",
+    "back": "Sector area = (central angle ÷ 360°) × πr²."
+  },
+  {
+    "id": "m53",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Surface area of a rectangular box",
+    "back": "2(lw + lh + wh). Add up all six faces in matching pairs."
+  },
+  {
+    "id": "m50",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Trapezoid area",
+    "back": "½ × (base1 + base2) × height."
+  },
+  {
+    "id": "m52",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Volume of a cylinder",
+    "back": "πr² × height."
+  },
+  {
+    "id": "m51",
+    "deck": "math",
+    "tag": "Geometry: Circles, Area & Volume",
+    "front": "Volume of a rectangular box",
+    "back": "length × width × height."
+  },
+  {
+    "id": "m40",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "3-4-5 and 5-12-13 triangles",
+    "back": "Common right triangle ratios worth memorizing so you can skip the Pythagorean theorem entirely."
+  },
+  {
+    "id": "m42",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "30-60-90 triangle sides",
+    "back": "Sides are in the ratio x : x√3 : 2x, opposite the 30°, 60°, and 90° angles respectively."
+  },
+  {
+    "id": "m41",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "45-45-90 triangle sides",
+    "back": "Sides are in the ratio x : x : x√2. The hypotenuse equals a leg times √2."
+  },
+  {
+    "id": "m38",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "Exterior angle theorem",
+    "back": "An exterior angle of a triangle equals the sum of the two non-adjacent interior angles."
+  },
+  {
+    "id": "m39",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "Pythagorean theorem",
+    "back": "a² + b² = c², where c is the hypotenuse of a right triangle."
+  },
+  {
+    "id": "m43",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "Similar triangles",
+    "back": "Corresponding angles are equal and corresponding sides are proportional. Set up a ratio to solve for a missing side."
+  },
+  {
+    "id": "m44",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "Sum of interior angles of a polygon",
+    "back": "(n − 2) × 180°, where n is the number of sides."
+  },
+  {
+    "id": "m36",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "Triangle angle sum",
+    "back": "The interior angles of any triangle always sum to 180°."
+  },
+  {
+    "id": "m37",
+    "deck": "math",
+    "tag": "Geometry: Triangles & Angles",
+    "front": "Triangle inequality",
+    "back": "The sum of any two sides of a triangle must be greater than the third side."
+  },
+  {
+    "id": "m33",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Consecutive integers and divisibility",
+    "back": "The sum of n consecutive integers is always divisible by n when n is odd. Not guaranteed when n is even."
+  },
+  {
+    "id": "m29",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Divisibility by 3",
+    "back": "A number is divisible by 3 if the sum of its digits is a multiple of 3."
+  },
+  {
+    "id": "m30",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Divisibility by 4",
+    "back": "A number is divisible by 4 if its last two digits form a number divisible by 4."
+  },
+  {
+    "id": "m31",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Divisibility by 9",
+    "back": "A number is divisible by 9 if the sum of its digits is a multiple of 9."
+  },
+  {
+    "id": "m27",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Even/odd rules",
+    "back": "Even + Even = Even. Odd + Odd = Even. Even + Odd = Odd. Even × anything = Even. Odd × Odd = Odd."
+  },
+  {
+    "id": "m34",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Factors vs. multiples",
+    "back": "Factors of 12 divide evenly into it (1, 2, 3, 4, 6, 12). Multiples of 12 are what 12 divides into (12, 24, 36...)."
+  },
+  {
+    "id": "m35",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "GCF and LCM shortcut",
+    "back": "GCF × LCM of two numbers equals the product of the two numbers."
+  },
+  {
+    "id": "m28",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Prime numbers",
+    "back": "A prime has exactly two factors: 1 and itself. 2 is the only even prime. 1 is not prime."
+  },
+  {
+    "id": "m32",
+    "deck": "math",
+    "tag": "Number Properties",
+    "front": "Remainders",
+    "back": "If a ÷ b leaves remainder r, then a = bq + r, where 0 ≤ r < b."
+  },
+  {
+    "id": "m2",
+    "deck": "math",
+    "tag": "Percentages & Ratios",
+    "front": "\"x is what percent of y\"",
+    "back": "(x ÷ y) × 100. Be careful which number is the whole (the denominator)."
+  },
+  {
+    "id": "m5",
+    "deck": "math",
+    "tag": "Percentages & Ratios",
+    "front": "Part-to-part vs. part-to-whole",
+    "back": "A ratio of 3 : 5 means 3 parts to 5 parts, so the whole is 8 parts. Each quantity is 3/8 and 5/8 of the total."
+  },
+  {
+    "id": "m0",
+    "deck": "math",
+    "tag": "Percentages & Ratios",
+    "front": "Percent change formula",
+    "back": "(New − Old) ÷ Old × 100. A positive result means an increase, negative means a decrease."
+  },
+  {
+    "id": "m7",
+    "deck": "math",
+    "tag": "Percentages & Ratios",
+    "front": "Percent increase to reach a target",
+    "back": "To go from x to y: percent increase = (y − x) ÷ x × 100. Always divide by the STARTING value."
+  },
+  {
+    "id": "m1",
+    "deck": "math",
+    "tag": "Percentages & Ratios",
+    "front": "Percent of a percent",
+    "back": "30% of 50% of x = 0.30 × 0.50 × x = 0.15x. Multiply the decimals, don't add them."
+  },
+  {
+    "id": "m4",
+    "deck": "math",
+    "tag": "Percentages & Ratios",
+    "front": "Ratio to fraction of the whole",
+    "back": "A ratio a : b splits the whole into (a + b) parts. One part = total ÷ (a + b)."
+  },
+  {
+    "id": "m6",
+    "deck": "math",
+    "tag": "Percentages & Ratios",
+    "front": "Scaling a ratio",
+    "back": "A ratio keeps the same value when both sides are multiplied by the same number: 2 : 3 = 4 : 6 = 20 : 30."
+  },
+  {
+    "id": "m3",
+    "deck": "math",
+    "tag": "Percentages & Ratios",
+    "front": "Successive percent changes",
+    "back": "A 20% increase then a 20% decrease is NOT 0%. Multiply the factors: 1.20 × 0.80 = 0.96, a net 4% decrease."
+  },
+  {
+    "id": "m8",
+    "deck": "math",
+    "tag": "Percentages & Ratios",
+    "front": "Weighted average shortcut",
+    "back": "A weighted average sits closer to the value with more weight. Three tests averaging 80 plus one test of 100 pulls the overall average only slightly above 80."
+  },
+  {
+    "id": "m59",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Basic probability",
+    "back": "Probability = favorable outcomes ÷ total possible outcomes."
+  },
+  {
+    "id": "m62",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Combinations vs. permutations",
+    "back": "Order matters: permutation (nPr). Order doesn't matter: combination (nCr). Combinations are always smaller or equal."
+  },
+  {
+    "id": "m54",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Mean",
+    "back": "Sum of all values ÷ number of values."
+  },
+  {
+    "id": "m55",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Median",
+    "back": "The middle value when data is ordered. For an even count, average the two middle values."
+  },
+  {
+    "id": "m56",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Mode",
+    "back": "The value that appears most often. A data set can have more than one mode."
+  },
+  {
+    "id": "m61",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Probability of either event (OR)",
+    "back": "P(A or B) = P(A) + P(B) − P(A and B). Subtract the overlap so you don't double count."
+  },
+  {
+    "id": "m60",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Probability of independent events (AND)",
+    "back": "Multiply the individual probabilities: P(A and B) = P(A) × P(B)."
+  },
+  {
+    "id": "m57",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Range",
+    "back": "Highest value minus lowest value."
+  },
+  {
+    "id": "m58",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Standard deviation, intuition",
+    "back": "Measures how spread out data is from the mean. A tighter cluster means a smaller standard deviation."
+  },
+  {
+    "id": "m65",
+    "deck": "math",
+    "tag": "Word Problem Strategies",
+    "front": "Average speed for a round trip",
+    "back": "Average speed is NOT the average of the two speeds. Use total distance ÷ total time."
+  },
+  {
+    "id": "m68",
+    "deck": "math",
+    "tag": "Word Problem Strategies",
+    "front": "Compound interest",
+    "back": "Final amount = Principal × (1 + rate/n)^(n × time), where n is the number of compounding periods per year."
+  },
+  {
+    "id": "m64",
+    "deck": "math",
+    "tag": "Word Problem Strategies",
+    "front": "Distance, rate, and time",
+    "back": "Distance = Rate × Time. Rearrange for the others: Rate = D/T, Time = D/R."
+  },
+  {
+    "id": "m66",
+    "deck": "math",
+    "tag": "Word Problem Strategies",
+    "front": "Mixture problems",
+    "back": "Set up: (amount1 × concentration1) + (amount2 × concentration2) = total amount × final concentration."
+  },
+  {
+    "id": "m71",
+    "deck": "math",
+    "tag": "Word Problem Strategies",
+    "front": "Overlapping sets (two groups)",
+    "back": "Total = Group A + Group B − Both + Neither. Sketch a Venn diagram whenever two categories overlap."
+  },
+  {
+    "id": "m70",
+    "deck": "math",
+    "tag": "Word Problem Strategies",
+    "front": "Picking smart numbers",
+    "back": "For percent and ratio word problems with an unknown total, plug in 100 to make the arithmetic easy."
+  },
+  {
+    "id": "m67",
+    "deck": "math",
+    "tag": "Word Problem Strategies",
+    "front": "Simple interest",
+    "back": "Interest = Principal × Rate × Time."
+  },
+  {
+    "id": "m69",
+    "deck": "math",
+    "tag": "Word Problem Strategies",
+    "front": "Translating \"of\" and \"is\"",
+    "back": "\"Of\" usually means multiply. \"Is\" usually means equals. \"What\" is your variable."
+  },
+  {
+    "id": "m63",
+    "deck": "math",
+    "tag": "Word Problem Strategies",
+    "front": "Work rate problems",
+    "back": "Rate = 1 job ÷ time. Combined rate = sum of individual rates. Combined time = 1 ÷ combined rate."
+  },
+  {
+    "id": "v0",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Aberration",
+    "pos": "n",
+    "back": "A departure from what is normal or expected.",
+    "example": "The freak snowstorm in July was an aberration, not a sign of a shifting climate."
+  },
+  {
+    "id": "v3",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Acrimony",
+    "pos": "n",
+    "back": "Bitterness and anger, especially in speech or disputes.",
+    "example": "The divorce proceedings dragged on for years, full of acrimony."
+  },
+  {
+    "id": "v4",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Affable",
+    "pos": "adj",
+    "back": "Friendly, easygoing, and pleasant to talk to.",
+    "example": "The affable host made every guest feel instantly welcome."
+  },
+  {
+    "id": "v7",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Ambiguous",
+    "pos": "adj",
+    "back": "Open to more than one interpretation; unclear.",
+    "example": "His ambiguous answer left both sides thinking he agreed with them."
+  },
+  {
+    "id": "v9",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Amenable",
+    "pos": "adj",
+    "back": "Willing to go along with something; easily persuaded.",
+    "example": "He was amenable to changing the meeting time once he heard why."
+  },
+  {
+    "id": "v10",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Amiable",
+    "pos": "adj",
+    "back": "Friendly and good natured.",
+    "example": "Their amiable neighbor always waved and asked about their day."
+  },
+  {
+    "id": "v11",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Amorphous",
+    "pos": "adj",
+    "back": "Lacking a clear shape, structure, or organization.",
+    "example": "The committee's amorphous plan had no real steps or deadlines."
+  },
+  {
+    "id": "v14",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Animosity",
+    "pos": "n",
+    "back": "Strong hostility or ill will.",
+    "example": "Years of competition bred quiet animosity between the two labs."
+  },
+  {
+    "id": "v15",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Anomalous",
+    "pos": "adj",
+    "back": "Deviating from what is normal or expected.",
+    "example": "The anomalous reading was traced back to a faulty sensor."
+  },
+  {
+    "id": "v26",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Attenuate",
+    "pos": "v",
+    "back": "To reduce the force, effect, or value of something.",
+    "example": "The thick curtains attenuated the noise from the street below."
+  },
+  {
+    "id": "v43",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Calumny",
+    "pos": "n",
+    "back": "A false and malicious statement meant to damage someone's reputation.",
+    "example": "The tabloid's story was pure calumny, invented from nothing."
+  },
+  {
+    "id": "v45",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Castigate",
+    "pos": "v",
+    "back": "To criticize or punish harshly.",
+    "example": "The coach castigated the team for their sloppy defense."
+  },
+  {
+    "id": "v50",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Chary",
+    "pos": "adj",
+    "back": "Cautious and wary.",
+    "example": "Burned once, she was chary of signing any contract without a lawyer."
+  },
+  {
+    "id": "v51",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Chastise",
+    "pos": "v",
+    "back": "To scold or reprimand severely.",
+    "example": "The professor chastised the class for skipping the assigned reading."
+  },
+  {
+    "id": "v56",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Churlish",
+    "pos": "adj",
+    "back": "Rude and ill mannered.",
+    "example": "It felt churlish to complain about the free upgrade, but he did anyway."
+  },
+  {
+    "id": "v57",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Cogent",
+    "pos": "adj",
+    "back": "Clear, logical, and convincing.",
+    "example": "Her cogent argument won over even the skeptics on the panel."
+  },
+  {
+    "id": "v58",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Commensurate",
+    "pos": "adj",
+    "back": "Proportional in size or degree to something else.",
+    "example": "His raise was commensurate with the extra responsibilities he had taken on."
+  },
+  {
+    "id": "v59",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Conciliate",
+    "pos": "v",
+    "back": "To make peace with; to win over.",
+    "example": "The manager tried to conciliate both sides before the dispute escalated."
+  },
+  {
+    "id": "v84",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Excoriate",
+    "pos": "v",
+    "back": "To criticize someone severely.",
+    "example": "The op-ed excoriated the mayor for the delayed response."
+  },
+  {
+    "id": "v85",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Execrate",
+    "pos": "v",
+    "back": "To feel or express great loathing for.",
+    "example": "Historians execrate the general for the massacre he ordered."
+  },
+  {
+    "id": "v86",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Exegesis",
+    "pos": "n",
+    "back": "A detailed critical explanation of a text.",
+    "example": "The seminar spent a full semester on exegesis of a single poem."
+  },
+  {
+    "id": "v87",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Exhort",
+    "pos": "v",
+    "back": "To strongly encourage or urge someone to do something.",
+    "example": "The coach exhorted her players to give one more push before the final whistle."
+  },
+  {
+    "id": "v92",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Extenuating",
+    "pos": "adj",
+    "back": "Providing a partial excuse by making an offense seem less serious.",
+    "example": "The judge cited extenuating circumstances and reduced the sentence."
+  },
+  {
+    "id": "v93",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Factious",
+    "pos": "adj",
+    "back": "Tending to cause disagreement within a group.",
+    "example": "The factious board split into two camps over the merger."
+  },
+  {
+    "id": "v94",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Factitious",
+    "pos": "adj",
+    "back": "Artificial or fake, rather than natural.",
+    "example": "His outrage felt factitious, more performance than real feeling."
+  },
+  {
+    "id": "v99",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Fractious",
+    "pos": "adj",
+    "back": "Irritable and difficult to control.",
+    "example": "The fractious toddler refused to nap on the long flight."
+  },
+  {
+    "id": "v230",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Venal",
+    "pos": "adj",
+    "back": "Easily bribed or corrupted.",
+    "example": "The venal official approved every permit for the right price."
+  },
+  {
+    "id": "v232",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Venerate",
+    "pos": "v",
+    "back": "To regard with great respect.",
+    "example": "Students still venerate the retired professor decades after her last lecture."
+  },
+  {
+    "id": "v233",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Venial",
+    "pos": "adj",
+    "back": "Minor and easily forgiven, especially of a sin or fault.",
+    "example": "Forgetting to cc a colleague felt like a venial mistake at worst."
+  },
+  {
+    "id": "v234",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Veracious",
+    "pos": "adj",
+    "back": "Habitually truthful.",
+    "example": "A veracious witness, she never wavered under cross examination."
+  },
+  {
+    "id": "v235",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Vicarious",
+    "pos": "adj",
+    "back": "Experienced through the actions or feelings of another.",
+    "example": "He got a vicarious thrill watching his daughter's first race."
+  },
+  {
+    "id": "v236",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Vicissitude",
+    "pos": "n",
+    "back": "A change of circumstances, especially an unwelcome one.",
+    "example": "Despite the vicissitudes of the market, the fund stayed steady."
+  },
+  {
+    "id": "v239",
+    "deck": "vocab",
+    "tag": "By the Letter",
+    "front": "Voracious",
+    "pos": "adj",
+    "back": "Having a huge appetite, literal or figurative.",
+    "example": "A voracious reader, she finished three novels a week."
+  },
+  {
+    "id": "v35",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Belie",
+    "pos": "v",
+    "back": "To give a false impression of; to contradict.",
+    "example": "His calm voice belied the panic he felt underneath."
+  },
+  {
+    "id": "v37",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Betray",
+    "pos": "v",
+    "back": "To be disloyal to, or to reveal unintentionally.",
+    "example": "Her trembling hands betrayed how nervous she really was."
+  },
+  {
+    "id": "v71",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Disinterested",
+    "pos": "adj",
+    "back": "Impartial; having no personal stake in the outcome. Different from uninterested.",
+    "example": "As a disinterested judge, she had no ties to either team."
+  },
+  {
+    "id": "v78",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Equivocal",
+    "pos": "adj",
+    "back": "Open to more than one interpretation; deliberately vague.",
+    "example": "His equivocal statement let both sides claim he had agreed with them."
+  },
+  {
+    "id": "v115",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Immaterial",
+    "pos": "adj",
+    "back": "Not relevant or important to the matter at hand.",
+    "example": "The judge ruled the witness's opinion immaterial to the case."
+  },
+  {
+    "id": "v117",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Impertinent",
+    "pos": "adj",
+    "back": "Rude and not showing proper respect.",
+    "example": "The intern's impertinent question caught the CEO off guard."
+  },
+  {
+    "id": "v122",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Inflammable",
+    "pos": "adj",
+    "back": "Easily set on fire. Means the same as flammable, not its opposite.",
+    "example": "The warning label marked the solvent as inflammable."
+  },
+  {
+    "id": "v126",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Insufferable",
+    "pos": "adj",
+    "back": "Unbearably arrogant or tedious.",
+    "example": "He became insufferable the moment he made partner."
+  },
+  {
+    "id": "v140",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Limpid",
+    "pos": "adj",
+    "back": "Clear and transparent, often describing water or prose.",
+    "example": "Her limpid prose made even dense science easy to follow."
+  },
+  {
+    "id": "v181",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Propitiate",
+    "pos": "v",
+    "back": "To win the favor of, or appease.",
+    "example": "The company offered refunds to propitiate its angriest customers."
+  },
+  {
+    "id": "v188",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Remiss",
+    "pos": "adj",
+    "back": "Careless in performing one's duty.",
+    "example": "It would be remiss not to mention the risks before signing."
+  },
+  {
+    "id": "v189",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Remonstrate",
+    "pos": "v",
+    "back": "To argue or plead in protest.",
+    "example": "Residents remonstrated with the council over the new zoning rule."
+  },
+  {
+    "id": "v190",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Repine",
+    "pos": "v",
+    "back": "To express discontent; to complain or fret.",
+    "example": "He repined for weeks over the job he had turned down."
+  },
+  {
+    "id": "v192",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Restive",
+    "pos": "adj",
+    "back": "Restless and impatient, resistant to control.",
+    "example": "The crowd grew restive after the third delayed announcement."
+  },
+  {
+    "id": "v203",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Sententious",
+    "pos": "adj",
+    "back": "Given to moralizing in a pompous way.",
+    "example": "The sententious foreword lectured readers before the story even began."
+  },
+  {
+    "id": "v216",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Tendentious",
+    "pos": "adj",
+    "back": "Promoting a particular, often controversial, point of view.",
+    "example": "The documentary's tendentious editing left out any opposing view."
+  },
+  {
+    "id": "v223",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Unconscionable",
+    "pos": "adj",
+    "back": "Not right or reasonable; shockingly unfair.",
+    "example": "Charging that much for basic repairs was simply unconscionable."
+  },
+  {
+    "id": "v224",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Undermine",
+    "pos": "v",
+    "back": "To weaken gradually or secretly.",
+    "example": "Constant criticism undermined the team's confidence before the game even started."
+  },
+  {
+    "id": "v226",
+    "deck": "vocab",
+    "tag": "High Difficulty",
+    "front": "Unnerve",
+    "pos": "v",
+    "back": "To make someone lose courage or confidence.",
+    "example": "The sudden silence in the room unnerved every candidate at once."
+  },
+  {
+    "id": "v28",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Avarice",
+    "pos": "n",
+    "back": "Extreme greed for wealth.",
+    "example": "Avarice drove the executive to cut corners no one else would."
+  },
+  {
+    "id": "v62",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Cupidity",
+    "pos": "n",
+    "back": "Greed, especially for money or possessions.",
+    "example": "Cupidity, not need, explained why he kept expanding the empire."
+  },
+  {
+    "id": "v65",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Defray",
+    "pos": "v",
+    "back": "To provide money to pay part or all of a cost.",
+    "example": "The scholarship helped defray the cost of her first year."
+  },
+  {
+    "id": "v74",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Dupe",
+    "pos": "n/v",
+    "back": "To trick or deceive someone; also, a person who is easily deceived.",
+    "example": "The scammer duped dozens of retirees out of their savings."
+  },
+  {
+    "id": "v116",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Impecunious",
+    "pos": "adj",
+    "back": "Having little or no money.",
+    "example": "The impecunious artist survived on ramen and student loans."
+  },
+  {
+    "id": "v125",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Insolvent",
+    "pos": "adj",
+    "back": "Unable to pay one's debts.",
+    "example": "The airline declared itself insolvent after two brutal years of losses."
+  },
+  {
+    "id": "v154",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Mulct",
+    "pos": "v",
+    "back": "To extract money from someone by fine or fraud.",
+    "example": "The scheme mulcted thousands of small investors out of their savings."
+  },
+  {
+    "id": "v162",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Parsimonious",
+    "pos": "adj",
+    "back": "Extremely unwilling to spend money; stingy.",
+    "example": "The parsimonious budget left almost nothing for repairs."
+  },
+  {
+    "id": "v165",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Penurious",
+    "pos": "adj",
+    "back": "Extremely poor, or excessively stingy.",
+    "example": "He lived a penurious life despite the fortune sitting in his accounts."
+  },
+  {
+    "id": "v178",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Prodigal",
+    "pos": "adj",
+    "back": "Wastefully extravagant with money or resources.",
+    "example": "The prodigal heir burned through the inheritance in under five years."
+  },
+  {
+    "id": "v179",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Profligate",
+    "pos": "adj/n",
+    "back": "Recklessly wasteful, especially with money.",
+    "example": "Critics called the stadium deal a profligate use of public funds."
+  },
+  {
+    "id": "v206",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Spendthrift",
+    "pos": "n",
+    "back": "A person who spends money recklessly.",
+    "example": "His parents worried he would turn into a spendthrift once he got his first paycheck."
+  },
+  {
+    "id": "v209",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Stipend",
+    "pos": "n",
+    "back": "A fixed, regular sum paid as a salary or allowance.",
+    "example": "The fellowship included a modest stipend for living expenses."
+  },
+  {
+    "id": "v212",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Sybarite",
+    "pos": "n",
+    "back": "A person devoted to luxury and pleasure.",
+    "example": "The resort catered entirely to sybarites who never left the pool."
+  },
+  {
+    "id": "v218",
+    "deck": "vocab",
+    "tag": "Money & Finance",
+    "front": "Thrifty",
+    "pos": "adj",
+    "back": "Careful and economical with money.",
+    "example": "Their thrifty habits let them pay off the mortgage early."
+  },
+  {
+    "id": "v1",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Aboveboard",
+    "pos": "adj",
+    "back": "Honest and open, with no attempt to deceive.",
+    "example": "She kept the negotiations aboveboard by sharing every document with both sides."
+  },
+  {
+    "id": "v2",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Acme",
+    "pos": "n",
+    "back": "The highest point or peak of something.",
+    "example": "Winning the championship marked the acme of her tennis career."
+  },
+  {
+    "id": "v6",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Amalgam",
+    "pos": "n",
+    "back": "A mixture or blend of different things.",
+    "example": "The city's cuisine is an amalgam of Spanish, African, and Indigenous traditions."
+  },
+  {
+    "id": "v13",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Anathema",
+    "pos": "n",
+    "back": "Something or someone intensely disliked or shunned.",
+    "example": "Cutting corners on safety was anathema to the veteran engineer."
+  },
+  {
+    "id": "v16",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Apex",
+    "pos": "n",
+    "back": "The highest point; the peak.",
+    "example": "The satellite reached the apex of its orbit just after launch."
+  },
+  {
+    "id": "v17",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Apogee",
+    "pos": "n",
+    "back": "The highest point of achievement, or the farthest point in an orbit from Earth.",
+    "example": "The album marked the apogee of the band's popularity."
+  },
+  {
+    "id": "v18",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Apostasy",
+    "pos": "n",
+    "back": "Abandonment of a belief, principle, or party one once held.",
+    "example": "His former colleagues called his change of party pure apostasy."
+  },
+  {
+    "id": "v19",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Apotheosis",
+    "pos": "n",
+    "back": "The perfect example of something; the highest point of glorification.",
+    "example": "The finale was the apotheosis of the season, tying every storyline together."
+  },
+  {
+    "id": "v29",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Badger",
+    "pos": "v",
+    "back": "To pester someone persistently.",
+    "example": "The kids badgered their dad for a dog until he finally gave in."
+  },
+  {
+    "id": "v36",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Bellicose",
+    "pos": "adj",
+    "back": "Eager to fight; aggressively hostile.",
+    "example": "The senator's bellicose speech pushed the room toward war footing."
+  },
+  {
+    "id": "v38",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Bilious",
+    "pos": "adj",
+    "back": "Bad tempered, as if sick to one's stomach.",
+    "example": "The critic's bilious review tore the film apart line by line."
+  },
+  {
+    "id": "v42",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Cadaverous",
+    "pos": "adj",
+    "back": "Pale and thin, resembling a corpse.",
+    "example": "After the flu, he looked cadaverous, all cheekbones and shadows."
+  },
+  {
+    "id": "v46",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Catalyst",
+    "pos": "n",
+    "back": "Something that triggers a significant change or event.",
+    "example": "The factory closing was the catalyst for the town's slow decline."
+  },
+  {
+    "id": "v47",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Catholic",
+    "pos": "adj",
+    "back": "Universal; broad in range or sympathies (lowercase c).",
+    "example": "Her catholic taste in music ran from baroque to death metal."
+  },
+  {
+    "id": "v55",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Choleric",
+    "pos": "adj",
+    "back": "Easily angered; bad tempered.",
+    "example": "The choleric chef was famous for screaming at the smallest mistake."
+  },
+  {
+    "id": "v63",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Curmudgeon",
+    "pos": "n",
+    "back": "A grumpy, often older, person who is easily irritated.",
+    "example": "The old curmudgeon next door complained about every kid on a bike."
+  },
+  {
+    "id": "v64",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Defenestrate",
+    "pos": "v",
+    "back": "To throw someone or something out of a window, or figuratively to abruptly remove from power.",
+    "example": "The board defenestrated the CEO within a week of the scandal."
+  },
+  {
+    "id": "v68",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Desecrate",
+    "pos": "v",
+    "back": "To treat something sacred with violent disrespect.",
+    "example": "Vandals desecrated the old cemetery, and the town was outraged."
+  },
+  {
+    "id": "v69",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Diabolical",
+    "pos": "adj",
+    "back": "Extremely evil or wicked.",
+    "example": "The villain's diabolical plan involved three separate betrayals."
+  },
+  {
+    "id": "v70",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Disabuse",
+    "pos": "v",
+    "back": "To free someone from a mistaken belief.",
+    "example": "The mentor quickly disabused him of the idea that grad school would be easy."
+  },
+  {
+    "id": "v73",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Dog",
+    "pos": "v",
+    "back": "To follow persistently, often as a problem.",
+    "example": "Rumors of the merger dogged the company for months."
+  },
+  {
+    "id": "v76",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Embroiled",
+    "pos": "adj",
+    "back": "Deeply and unpleasantly involved in an argument or conflict.",
+    "example": "The two companies were embroiled in a lawsuit for over a decade."
+  },
+  {
+    "id": "v96",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Ferret",
+    "pos": "v",
+    "back": "To search persistently until something is found.",
+    "example": "It took a week to ferret out the source of the leak."
+  },
+  {
+    "id": "v103",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Goosebumps",
+    "pos": "n",
+    "back": "Small bumps on skin caused by cold, fear, or excitement.",
+    "example": "The final note of the song gave the whole audience goosebumps."
+  },
+  {
+    "id": "v104",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Gregarious",
+    "pos": "adj",
+    "back": "Fond of company; sociable.",
+    "example": "Her gregarious personality made her the obvious host for every party."
+  },
+  {
+    "id": "v105",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Harangue",
+    "pos": "n/v",
+    "back": "A long, forceful speech, especially one criticizing someone.",
+    "example": "He launched into a harangue about the parking situation."
+  },
+  {
+    "id": "v107",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Heyday",
+    "pos": "n",
+    "back": "The period of greatest success or popularity.",
+    "example": "In its heyday, the mill employed half the town."
+  },
+  {
+    "id": "v110",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Hodgepodge",
+    "pos": "n",
+    "back": "A confused mixture of things.",
+    "example": "The playlist was a hodgepodge of genres with no clear theme."
+  },
+  {
+    "id": "v111",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Hound",
+    "pos": "v",
+    "back": "To pursue relentlessly.",
+    "example": "Reporters hounded the senator for a comment on the scandal."
+  },
+  {
+    "id": "v112",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Iconoclast",
+    "pos": "n",
+    "back": "A person who challenges established beliefs or traditions.",
+    "example": "The architect was an iconoclast, rejecting every convention of the era."
+  },
+  {
+    "id": "v123",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Ingenuous",
+    "pos": "adj",
+    "back": "Innocent and unsuspecting; sincere.",
+    "example": "His ingenuous questions revealed he had no idea how competitive the field was."
+  },
+  {
+    "id": "v129",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Invective",
+    "pos": "n",
+    "back": "Harsh, abusive language.",
+    "example": "The comment section filled with invective within minutes."
+  },
+  {
+    "id": "v131",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Jaundice",
+    "pos": "adj/n",
+    "back": "A yellowish discoloration; the adjective jaundiced means bitter and cynical.",
+    "example": "Years of bad bosses left him with a jaundiced view of management."
+  },
+  {
+    "id": "v132",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Jejune",
+    "pos": "adj",
+    "back": "Naive, simplistic, or intellectually shallow.",
+    "example": "The critic dismissed the script's twist as jejune."
+  },
+  {
+    "id": "v133",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Jingoist",
+    "pos": "adj",
+    "back": "Extremely and aggressively patriotic.",
+    "example": "The jingoist rhetoric drowned out any real policy discussion."
+  },
+  {
+    "id": "v139",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Lascivious",
+    "pos": "adj",
+    "back": "Showing excessive sexual desire in an inappropriate way.",
+    "example": "His lascivious comments got him reported to HR."
+  },
+  {
+    "id": "v141",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Macabre",
+    "pos": "adj",
+    "back": "Disturbing because concerned with death.",
+    "example": "The museum's macabre exhibit on Victorian mourning drew huge crowds."
+  },
+  {
+    "id": "v144",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Malfeasance",
+    "pos": "n",
+    "back": "Wrongdoing, especially by a public official.",
+    "example": "The audit uncovered years of financial malfeasance."
+  },
+  {
+    "id": "v145",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Martinet",
+    "pos": "n",
+    "back": "A strict disciplinarian who demands rigid obedience.",
+    "example": "The new sergeant was a martinet who inspected every bunk each morning."
+  },
+  {
+    "id": "v147",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Mellifluous",
+    "pos": "adj",
+    "back": "Sweet and smooth sounding.",
+    "example": "Her mellifluous voice made even the safety announcement pleasant to hear."
+  },
+  {
+    "id": "v150",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Mettlesome",
+    "pos": "adj",
+    "back": "Full of courage and spirit.",
+    "example": "The mettlesome young horse fought the bridle from the start."
+  },
+  {
+    "id": "v151",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Misanthrope",
+    "pos": "n",
+    "back": "A person who dislikes people in general.",
+    "example": "The old misanthrope kept his blinds shut and his doorbell disconnected."
+  },
+  {
+    "id": "v156",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Nadir",
+    "pos": "n",
+    "back": "The lowest point of something.",
+    "example": "Losing the championship game marked the nadir of the season."
+  },
+  {
+    "id": "v157",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Overweening",
+    "pos": "adj",
+    "back": "Excessively arrogant or overconfident.",
+    "example": "His overweening confidence blinded him to every warning sign."
+  },
+  {
+    "id": "v158",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Palimpsest",
+    "pos": "n",
+    "back": "Something reused or altered but still bearing traces of its earlier form.",
+    "example": "The old city felt like a palimpsest, Roman walls under Ottoman streets under modern shops."
+  },
+  {
+    "id": "v161",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Parochial",
+    "pos": "adj",
+    "back": "Having a narrow, limited outlook, especially about local matters.",
+    "example": "The committee's parochial focus ignored how other countries handled the same problem."
+  },
+  {
+    "id": "v168",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Peruse",
+    "pos": "v",
+    "back": "To read or examine carefully. Does not mean to skim.",
+    "example": "She perused the contract line by line before signing."
+  },
+  {
+    "id": "v169",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Phantasmagorical",
+    "pos": "adj",
+    "back": "Having a fantastic or dreamlike quality.",
+    "example": "The parade's floats had a phantasmagorical, almost surreal quality."
+  },
+  {
+    "id": "v171",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Pinnacle",
+    "pos": "n",
+    "back": "The highest point of achievement.",
+    "example": "Winning the Nobel marked the pinnacle of her career."
+  },
+  {
+    "id": "v175",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Precipitate",
+    "pos": "adj/n/v",
+    "back": "To cause something to happen suddenly; also, hasty and rash.",
+    "example": "The resignation precipitated a scramble to find a replacement."
+  },
+  {
+    "id": "v191",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Reprobate",
+    "pos": "n",
+    "back": "A person of low or unprincipled character.",
+    "example": "The old reprobate had been banned from three different bars in town."
+  },
+  {
+    "id": "v194",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Sanctimonious",
+    "pos": "adj",
+    "back": "Making a show of being morally superior.",
+    "example": "His sanctimonious lecture on punctuality came from the one person who was late."
+  },
+  {
+    "id": "v196",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Sanguine",
+    "pos": "adj",
+    "back": "Optimistic and confident, especially in a difficult situation.",
+    "example": "He stayed sanguine about the deal even after the second delay."
+  },
+  {
+    "id": "v201",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Screed",
+    "pos": "n",
+    "back": "A long, tedious piece of writing, often a rant.",
+    "example": "He posted a five page screed about the parking policy."
+  },
+  {
+    "id": "v204",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Serendipity",
+    "pos": "n",
+    "back": "The occurrence of fortunate events by chance.",
+    "example": "Meeting her old professor at the airport felt like pure serendipity."
+  },
+  {
+    "id": "v205",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Slapdash",
+    "pos": "adj",
+    "back": "Done quickly and carelessly.",
+    "example": "The slapdash repair job fell apart within a week."
+  },
+  {
+    "id": "v210",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Summit",
+    "pos": "n",
+    "back": "The highest point; the peak.",
+    "example": "They reached the summit just before the storm rolled in."
+  },
+  {
+    "id": "v213",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Syncretic",
+    "pos": "adj",
+    "back": "Combining different beliefs or practices into one.",
+    "example": "The temple's syncretic art blended Buddhist and local folk traditions."
+  },
+  {
+    "id": "v215",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Telltale",
+    "pos": "adj",
+    "back": "Revealing something that was meant to be hidden.",
+    "example": "The telltale smell of smoke gave away where he had been."
+  },
+  {
+    "id": "v219",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Tirade",
+    "pos": "n",
+    "back": "A long, angry speech of criticism.",
+    "example": "He launched into a tirade the moment the flight was delayed."
+  },
+  {
+    "id": "v220",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Truculent",
+    "pos": "adj",
+    "back": "Aggressively hostile or defiant.",
+    "example": "The truculent teenager answered every question with a shrug."
+  },
+  {
+    "id": "v221",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Turpitude",
+    "pos": "n",
+    "back": "Depraved or shameful behavior.",
+    "example": "The scandal was cited as an act of moral turpitude."
+  },
+  {
+    "id": "v225",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Underwrite",
+    "pos": "v",
+    "back": "To financially support, or to assume financial responsibility for risk.",
+    "example": "The foundation agreed to underwrite the entire research trip."
+  },
+  {
+    "id": "v227",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Untoward",
+    "pos": "adj",
+    "back": "Unexpected and inappropriate or improper.",
+    "example": "Nothing untoward happened during the inspection, to everyone's relief."
+  },
+  {
+    "id": "v228",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Upbraid",
+    "pos": "v",
+    "back": "To scold or criticize severely.",
+    "example": "The captain upbraided the crew for the missed signal."
+  },
+  {
+    "id": "v231",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Venality",
+    "pos": "n",
+    "back": "The quality of being open to bribery or corruption.",
+    "example": "The report exposed decades of venality in the licensing office."
+  },
+  {
+    "id": "v237",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Virago",
+    "pos": "n",
+    "back": "A fierce, domineering woman.",
+    "example": "The play cast her as a virago who terrifies every suitor."
+  },
+  {
+    "id": "v238",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Vituperation",
+    "pos": "n",
+    "back": "Bitter and abusive language.",
+    "example": "The review was less criticism than pure vituperation."
+  },
+  {
+    "id": "v243",
+    "deck": "vocab",
+    "tag": "Themed Vocab",
+    "front": "Zenith",
+    "pos": "n",
+    "back": "The highest point; the peak.",
+    "example": "The empire's zenith came just a century before its collapse."
+  },
+  {
+    "id": "v5",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Alacrity",
+    "pos": "n",
+    "back": "Eager and cheerful readiness to do something.",
+    "example": "He agreed to help with alacrity, dropping what he was doing at once."
+  },
+  {
+    "id": "v8",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Ambivalent",
+    "pos": "adj",
+    "back": "Having mixed or contradictory feelings about something.",
+    "example": "She felt ambivalent about the promotion, excited but also wary of the added stress."
+  },
+  {
+    "id": "v27",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Auspicious",
+    "pos": "adj",
+    "back": "Showing signs of future success; favorable.",
+    "example": "Landing the internship on her first try felt like an auspicious start."
+  },
+  {
+    "id": "v39",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Bleak",
+    "pos": "adj",
+    "back": "Lacking hope or warmth; desolate.",
+    "example": "The job market looked bleak for new graduates that year."
+  },
+  {
+    "id": "v44",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Candid",
+    "pos": "adj",
+    "back": "Truthful and straightforward, even when unflattering.",
+    "example": "Her candid feedback stung, but it made the final draft much better."
+  },
+  {
+    "id": "v60",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Contentious",
+    "pos": "adj",
+    "back": "Likely to cause disagreement; controversial.",
+    "example": "Zoning changes are always a contentious topic at town meetings."
+  },
+  {
+    "id": "v61",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Contrite",
+    "pos": "adj",
+    "back": "Feeling regret for wrongdoing.",
+    "example": "He offered a contrite apology the morning after the argument."
+  },
+  {
+    "id": "v72",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Disparate",
+    "pos": "adj",
+    "back": "Fundamentally different or distinct from each other.",
+    "example": "The panel brought together disparate fields, from robotics to poetry."
+  },
+  {
+    "id": "v75",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Egregious",
+    "pos": "adj",
+    "back": "Outstandingly bad; shocking.",
+    "example": "The report uncovered an egregious pattern of billing errors."
+  },
+  {
+    "id": "v77",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Enervate",
+    "pos": "v",
+    "back": "To drain of energy or vitality.",
+    "example": "The humid afternoon left everyone enervated by the time class ended."
+  },
+  {
+    "id": "v79",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Equivocate",
+    "pos": "v",
+    "back": "To use vague or ambiguous language to avoid committing to a position.",
+    "example": "The witness equivocated every time he was asked for a specific date."
+  },
+  {
+    "id": "v83",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Erratic",
+    "pos": "adj",
+    "back": "Irregular or unpredictable in behavior.",
+    "example": "His erratic driving worried everyone else on the road."
+  },
+  {
+    "id": "v91",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Extant",
+    "pos": "adj",
+    "back": "Still in existence; not extinct or destroyed.",
+    "example": "Only three copies of the original manuscript are still extant."
+  },
+  {
+    "id": "v124",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Innocuous",
+    "pos": "adj",
+    "back": "Not harmful or offensive.",
+    "example": "The comment seemed innocuous, but it started an office wide argument."
+  },
+  {
+    "id": "v137",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Laconic",
+    "pos": "adj",
+    "back": "Using very few words; terse.",
+    "example": "The general's laconic reply was just two words: not yet."
+  },
+  {
+    "id": "v142",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Maintain",
+    "pos": "v",
+    "back": "To assert something as true, or to keep something in existence.",
+    "example": "The scientist maintained that the results would replicate."
+  },
+  {
+    "id": "v164",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Paucity",
+    "pos": "n",
+    "back": "A scarcity or lack of something.",
+    "example": "The report cited a paucity of evidence for the claim."
+  },
+  {
+    "id": "v180",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Profuse",
+    "pos": "adj",
+    "back": "Plentiful, given or produced in large amounts.",
+    "example": "He offered profuse apologies for showing up an hour late."
+  },
+  {
+    "id": "v182",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Prosaic",
+    "pos": "adj",
+    "back": "Dull and unimaginative; ordinary.",
+    "example": "The tour guide's prosaic description made even the ruins sound boring."
+  },
+  {
+    "id": "v184",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Pugnacious",
+    "pos": "adj",
+    "back": "Eager to argue or fight.",
+    "example": "His pugnacious style made every meeting feel like a debate."
+  },
+  {
+    "id": "v202",
+    "deck": "vocab",
+    "tag": "Top & Common Words",
+    "front": "Sedulous",
+    "pos": "adj",
+    "back": "Diligent and persistent in effort.",
+    "example": "Her sedulous note taking paid off during finals week."
+  },
+  {
+    "id": "v20",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Arch",
+    "pos": "adj",
+    "back": "Playfully mischievous or knowingly sly, especially in tone.",
+    "example": "She gave an arch smile before delivering the punch line."
+  },
+  {
+    "id": "v21",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Arrant",
+    "pos": "adj",
+    "back": "Complete and utter, used to intensify something negative.",
+    "example": "That excuse was arrant nonsense, and everyone in the room knew it."
+  },
+  {
+    "id": "v23",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Artful",
+    "pos": "adj",
+    "back": "Skillful, especially in a clever or crafty way.",
+    "example": "Her artful negotiating got the price down without anyone feeling cheated."
+  },
+  {
+    "id": "v24",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Artifice",
+    "pos": "n",
+    "back": "Clever trickery or deception used to create an effect.",
+    "example": "The magician's act depended entirely on artifice and misdirection."
+  },
+  {
+    "id": "v25",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Artless",
+    "pos": "adj",
+    "back": "Natural and without deception; lacking cunning.",
+    "example": "His artless honesty surprised interviewers used to rehearsed answers."
+  },
+  {
+    "id": "v30",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Base",
+    "pos": "adj",
+    "back": "Morally low or lacking dignity.",
+    "example": "Stealing from a charity is about as base as it gets."
+  },
+  {
+    "id": "v31",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Beatific",
+    "pos": "adj",
+    "back": "Blissfully happy; showing serene joy.",
+    "example": "The toddler wore a beatific smile after her first bite of cake."
+  },
+  {
+    "id": "v32",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Beautiful",
+    "pos": "adj",
+    "back": "Pleasing to look at; attractive.",
+    "example": "The valley looked beautiful under the season's first snow."
+  },
+  {
+    "id": "v33",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Becoming",
+    "pos": "adj",
+    "back": "Flattering or suitable in appearance.",
+    "example": "The tailored jacket was far more becoming than her old coat."
+  },
+  {
+    "id": "v34",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Beg",
+    "pos": "v",
+    "back": "To ask for something urgently. Note: 'beg the question' means to assume the conclusion, not to raise a question.",
+    "example": "Technically, an argument that assumes its conclusion begs the question."
+  },
+  {
+    "id": "v40",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Blinkered",
+    "pos": "adj",
+    "back": "Having a narrow, limited outlook.",
+    "example": "His blinkered view of the market ignored every competitor overseas."
+  },
+  {
+    "id": "v48",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Censor",
+    "pos": "v",
+    "back": "To suppress or remove parts of something considered objectionable.",
+    "example": "The studio censored two scenes before the film's release."
+  },
+  {
+    "id": "v49",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Censure",
+    "pos": "v",
+    "back": "To formally criticize or reprimand.",
+    "example": "The senate voted to censure the official for the leaked memo."
+  },
+  {
+    "id": "v53",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Check",
+    "pos": "v",
+    "back": "To restrain or hold back.",
+    "example": "She had to check her temper before responding to the email."
+  },
+  {
+    "id": "v54",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Checkered",
+    "pos": "adj",
+    "back": "Marked by both good and bad periods; inconsistent.",
+    "example": "His checkered past included both a felony and a humanitarian award."
+  },
+  {
+    "id": "v66",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Demur",
+    "pos": "v",
+    "back": "To raise objections or show reluctance.",
+    "example": "When asked to work the holiday, she politely demurred."
+  },
+  {
+    "id": "v67",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Demure",
+    "pos": "adj",
+    "back": "Modest and reserved in behavior.",
+    "example": "The bride wore a demure, high necked gown for the ceremony."
+  },
+  {
+    "id": "v80",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Err",
+    "pos": "v",
+    "back": "To make a mistake.",
+    "example": "When in doubt, she preferred to err on the side of caution."
+  },
+  {
+    "id": "v81",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Errand",
+    "pos": "n",
+    "back": "A short trip taken to complete a specific task.",
+    "example": "He ran a quick errand to the pharmacy before dinner."
+  },
+  {
+    "id": "v82",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Errant",
+    "pos": "adj",
+    "back": "Straying from the proper course or standards; wandering.",
+    "example": "An errant golf ball shattered the neighbor's window."
+  },
+  {
+    "id": "v88",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Expansive",
+    "pos": "adj",
+    "back": "Broad in scope, or open and talkative.",
+    "example": "After a glass of wine, he grew expansive about his travel plans."
+  },
+  {
+    "id": "v89",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Expunge",
+    "pos": "v",
+    "back": "To erase or remove completely, especially from a record.",
+    "example": "The judge agreed to expunge the old charge from his record."
+  },
+  {
+    "id": "v90",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Expurgate",
+    "pos": "v",
+    "back": "To remove objectionable material from a text before publishing.",
+    "example": "The school library kept an expurgated version of the novel."
+  },
+  {
+    "id": "v95",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Fell",
+    "pos": "adj",
+    "back": "Fierce or deadly, in older or literary usage.",
+    "example": "One fell swoop ended three years of careful planning."
+  },
+  {
+    "id": "v97",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Fleece",
+    "pos": "v",
+    "back": "To swindle someone out of money.",
+    "example": "The contractor fleeced the family for repairs that were never needed."
+  },
+  {
+    "id": "v98",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Flush",
+    "pos": "adj",
+    "back": "Having plenty of something, especially money.",
+    "example": "After the bonus, they finally felt flush enough to travel."
+  },
+  {
+    "id": "v100",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Frugal",
+    "pos": "adj",
+    "back": "Careful and sparing with money, without being stingy.",
+    "example": "Their frugal habits let them retire a decade early."
+  },
+  {
+    "id": "v101",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Galvanize",
+    "pos": "v",
+    "back": "To shock or excite someone into action.",
+    "example": "The petition galvanized hundreds of students to show up at city hall."
+  },
+  {
+    "id": "v106",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Hedge",
+    "pos": "n/v",
+    "back": "To protect against loss by avoiding a firm commitment.",
+    "example": "She hedged her answer, unwilling to commit to either plan."
+  },
+  {
+    "id": "v108",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "History",
+    "pos": "n",
+    "back": "The study of past events.",
+    "example": "She majored in history before switching to public policy."
+  },
+  {
+    "id": "v109",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Histrionic",
+    "pos": "adj",
+    "back": "Overly theatrical or dramatic.",
+    "example": "His histrionic reaction to the delay embarrassed everyone at the gate."
+  },
+  {
+    "id": "v113",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Imbibe",
+    "pos": "v",
+    "back": "To drink, or figuratively to absorb ideas.",
+    "example": "He imbibed his mentor's philosophy long before he understood it fully."
+  },
+  {
+    "id": "v118",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Imponderable",
+    "pos": "adj/n",
+    "back": "Impossible to estimate or evaluate with certainty.",
+    "example": "How the market would react was an imponderable no model could predict."
+  },
+  {
+    "id": "v119",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Indigenous",
+    "pos": "adj",
+    "back": "Native to a particular place.",
+    "example": "The exhibit focused on plants indigenous to the region."
+  },
+  {
+    "id": "v120",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Indigent",
+    "pos": "adj",
+    "back": "Extremely poor.",
+    "example": "The clinic offered free care to indigent patients."
+  },
+  {
+    "id": "v121",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Indignant",
+    "pos": "adj",
+    "back": "Feeling angry because of perceived unfair treatment.",
+    "example": "She grew indignant when the waiter assumed she couldn't pay."
+  },
+  {
+    "id": "v127",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Intimate",
+    "pos": "adj/v",
+    "back": "To hint or suggest indirectly; also, closely familiar.",
+    "example": "She intimated that layoffs were coming without saying so outright."
+  },
+  {
+    "id": "v128",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Inundate",
+    "pos": "v",
+    "back": "To overwhelm with a large amount of something.",
+    "example": "The office was inundated with applications within a day of posting."
+  },
+  {
+    "id": "v130",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Involved",
+    "pos": "adj",
+    "back": "Complicated or intricate.",
+    "example": "Filing the claim turned out to be a far more involved process than expected."
+  },
+  {
+    "id": "v152",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Miserly",
+    "pos": "adj",
+    "back": "Stingy; unwilling to spend money.",
+    "example": "The miserly landlord refused to fix the heater for months."
+  },
+  {
+    "id": "v153",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Moment",
+    "pos": "n",
+    "back": "A point in time; also, importance or significance.",
+    "example": "The treaty was a decision of great moment for the region."
+  },
+  {
+    "id": "v166",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Peremptory",
+    "pos": "adj",
+    "back": "Commanding, allowing no argument or refusal.",
+    "example": "Her peremptory tone made it clear the decision was already made."
+  },
+  {
+    "id": "v167",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Perfunctory",
+    "pos": "adj",
+    "back": "Done as a routine, without real interest or effort.",
+    "example": "He gave the report a perfunctory glance before signing it."
+  },
+  {
+    "id": "v173",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Ponderous",
+    "pos": "adj",
+    "back": "Slow, heavy, and labored, often describing writing or movement.",
+    "example": "The ponderous opening chapter almost made her put the book down."
+  },
+  {
+    "id": "v176",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Preemptive",
+    "pos": "adj",
+    "back": "Done in advance to prevent something from happening.",
+    "example": "The company issued a preemptive apology before the story even broke."
+  },
+  {
+    "id": "v177",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Prevaricate",
+    "pos": "v",
+    "back": "To speak evasively or avoid telling the truth directly.",
+    "example": "The senator prevaricated for ten minutes without ever answering the question."
+  },
+  {
+    "id": "v185",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Qualify",
+    "pos": "v",
+    "back": "To limit or restrict a statement's meaning.",
+    "example": "She qualified her praise by noting the deadline had been generous."
+  },
+  {
+    "id": "v193",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Retiring",
+    "pos": "adj",
+    "back": "Shy and reserved.",
+    "example": "For someone so retiring, she gave a surprisingly confident speech."
+  },
+  {
+    "id": "v200",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Scintillating",
+    "pos": "adj",
+    "back": "Brilliantly clever or lively.",
+    "example": "The panel's scintillating debate kept the audience engaged for two hours."
+  },
+  {
+    "id": "v207",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Start",
+    "pos": "v",
+    "back": "To move suddenly in surprise or alarm.",
+    "example": "She started at the sound of the door slamming shut."
+  },
+  {
+    "id": "v208",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Stem",
+    "pos": "v",
+    "back": "To stop the flow or spread of something.",
+    "example": "The new policy was meant to stem the rise in complaints."
+  },
+  {
+    "id": "v214",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Telling",
+    "pos": "adj",
+    "back": "Revealing, or having a significant effect.",
+    "example": "His hesitation before answering was pretty telling."
+  },
+  {
+    "id": "v217",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Tender",
+    "pos": "v",
+    "back": "To formally offer or submit, such as a resignation.",
+    "example": "She tendered her resignation the same week the merger closed."
+  },
+  {
+    "id": "v222",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Unchecked",
+    "pos": "adj",
+    "back": "Not restrained or controlled.",
+    "example": "Left unchecked, the algae bloom spread across the entire lake."
+  },
+  {
+    "id": "v229",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Variance",
+    "pos": "n",
+    "back": "A difference or discrepancy between two things.",
+    "example": "The audit flagged a variance between reported and actual expenses."
+  },
+  {
+    "id": "v240",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Wanting",
+    "pos": "adj",
+    "back": "Lacking something necessary; deficient.",
+    "example": "The plan looked solid on paper but was wanting in real detail."
+  },
+  {
+    "id": "v241",
+    "deck": "vocab",
+    "tag": "Tricky & Confusable Meanings",
+    "front": "Wax",
+    "pos": "n/v",
+    "back": "To grow or increase gradually. The opposite of wane.",
+    "example": "His enthusiasm waxed and waned depending on who was in the room."
+  },
+  {
+    "id": "v12",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Amuck",
+    "pos": "adv",
+    "back": "In a frenzied, out of control manner, as in run amuck.",
+    "example": "The puppy ran amuck through the garden, scattering leaves everywhere."
+  },
+  {
+    "id": "v22",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Arriviste",
+    "pos": "n",
+    "back": "A person who has recently gained wealth or status and is eager to be accepted.",
+    "example": "The old guard looked down on the arriviste who had bought his way into the club."
+  },
+  {
+    "id": "v41",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Byzantine",
+    "pos": "adj",
+    "back": "Excessively complicated, often involving intrigue.",
+    "example": "Untangling the company's byzantine approval process took three separate meetings."
+  },
+  {
+    "id": "v52",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Chauvinist",
+    "pos": "n",
+    "back": "A person with excessive or biased loyalty to their own group.",
+    "example": "The commentator's chauvinist rants ignored every foreign team's achievements."
+  },
+  {
+    "id": "v102",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Gerrymander",
+    "pos": "v",
+    "back": "To redraw political boundaries to favor one party.",
+    "example": "The new map was widely criticized as an attempt to gerrymander the district."
+  },
+  {
+    "id": "v114",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Imbroglio",
+    "pos": "n",
+    "back": "A confusing and embarrassing situation.",
+    "example": "The merger turned into a legal imbroglio that lasted years."
+  },
+  {
+    "id": "v134",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Junta",
+    "pos": "n",
+    "back": "A group, especially military, that rules a country after seizing power.",
+    "example": "The junta suspended the constitution within days of the coup."
+  },
+  {
+    "id": "v135",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Kafkaesque",
+    "pos": "adj",
+    "back": "Nightmarishly complex, illogical, or bureaucratic.",
+    "example": "Renewing the visa turned into a Kafkaesque ordeal of forms and offices."
+  },
+  {
+    "id": "v136",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Kowtow",
+    "pos": "v",
+    "back": "To act in an excessively submissive or deferential way.",
+    "example": "He refused to kowtow to the board's every demand."
+  },
+  {
+    "id": "v138",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Lagniappe",
+    "pos": "n",
+    "back": "A small unexpected gift or extra bonus.",
+    "example": "The waiter brought a slice of cake as lagniappe for the anniversary."
+  },
+  {
+    "id": "v143",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Malapropism",
+    "pos": "n",
+    "back": "The mistaken use of a word in place of a similar sounding one, for comic effect.",
+    "example": "His malapropism, 'for all intensive purposes,' made the whole room laugh."
+  },
+  {
+    "id": "v146",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Maudlin",
+    "pos": "adj",
+    "back": "Excessively and sentimentally emotional.",
+    "example": "After a few drinks, he got maudlin about his college years."
+  },
+  {
+    "id": "v148",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Mercurial",
+    "pos": "adj",
+    "back": "Subject to sudden, unpredictable changes in mood.",
+    "example": "The chef's mercurial temper kept the whole kitchen on edge."
+  },
+  {
+    "id": "v149",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Mesmerize",
+    "pos": "v",
+    "back": "To hold someone's complete attention, as if hypnotized.",
+    "example": "The dancer's footwork mesmerized the entire theater."
+  },
+  {
+    "id": "v155",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Nabob",
+    "pos": "n",
+    "back": "A person of great wealth or importance.",
+    "example": "Local nabobs funded most of the new museum wing."
+  },
+  {
+    "id": "v159",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Panglossian",
+    "pos": "adj",
+    "back": "Excessively optimistic, especially in the face of hardship.",
+    "example": "His Panglossian outlook survived even the company's third layoff round."
+  },
+  {
+    "id": "v160",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Pariah",
+    "pos": "n",
+    "back": "An outcast, someone rejected by a group.",
+    "example": "After the scandal broke, he became a pariah at every industry conference."
+  },
+  {
+    "id": "v163",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Parvenu",
+    "pos": "n",
+    "back": "A person who has recently risen in social or economic status, often viewed with disdain.",
+    "example": "The old families dismissed him as a parvenu, no matter how much he donated."
+  },
+  {
+    "id": "v170",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Picayune",
+    "pos": "adj",
+    "back": "Of little value or importance; petty.",
+    "example": "The board spent an hour on a picayune detail about the letterhead."
+  },
+  {
+    "id": "v172",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Pollyannaish",
+    "pos": "adj",
+    "back": "Excessively or foolishly optimistic.",
+    "example": "His Pollyannaish forecast ignored every risk the analysts flagged."
+  },
+  {
+    "id": "v174",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Powwow",
+    "pos": "n/v",
+    "back": "An informal meeting or discussion.",
+    "example": "The coaches had a quick powwow before sending in the new play."
+  },
+  {
+    "id": "v183",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Protean",
+    "pos": "adj",
+    "back": "Able to change easily and take on many forms.",
+    "example": "Her protean talent let her move from drama to comedy without missing a beat."
+  },
+  {
+    "id": "v186",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Quisling",
+    "pos": "n",
+    "back": "A traitor who collaborates with an occupying enemy force.",
+    "example": "History remembers him as a quisling who handed the city to the invaders."
+  },
+  {
+    "id": "v187",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Quixotic",
+    "pos": "adj",
+    "back": "Idealistic to an impractical degree.",
+    "example": "His quixotic plan to reform the agency single handedly went nowhere."
+  },
+  {
+    "id": "v195",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Sangfroid",
+    "pos": "n",
+    "back": "Calmness and composure under pressure.",
+    "example": "She handled the emergency landing with remarkable sangfroid."
+  },
+  {
+    "id": "v197",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Sartorial",
+    "pos": "adj",
+    "back": "Relating to clothing or style of dress.",
+    "example": "The magazine praised his sartorial choices at the premiere."
+  },
+  {
+    "id": "v198",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Saturnine",
+    "pos": "adj",
+    "back": "Gloomy and slow to show emotion.",
+    "example": "His saturnine expression rarely changed, even at his own retirement party."
+  },
+  {
+    "id": "v199",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Schadenfreude",
+    "pos": "n",
+    "back": "Pleasure derived from another person's misfortune.",
+    "example": "There was a flicker of schadenfreude when the rival team lost in the finals."
+  },
+  {
+    "id": "v211",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Supercilious",
+    "pos": "adj",
+    "back": "Behaving as though superior to others; haughty.",
+    "example": "The supercilious waiter made her feel judged for ordering tap water."
+  },
+  {
+    "id": "v242",
+    "deck": "vocab",
+    "tag": "Word Origins",
+    "front": "Zeitgeist",
+    "pos": "n",
+    "back": "The defining spirit or mood of a particular period.",
+    "example": "The film captured the zeitgeist of a country in the middle of change."
+  }
+]
