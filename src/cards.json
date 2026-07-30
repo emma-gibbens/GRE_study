@@ -504,6 +504,13 @@
     "back": "Rate = 1 job ÷ time. Combined rate = sum of individual rates. Combined time = 1 ÷ combined rate."
   },
   {
+    "id": "m72",
+    "deck": "math",
+    "tag": "Foundations",
+    "front": "First 10 prime numbers",
+    "back": "2 3 5 7 11 13 17 19 23 29"
+  },
+  {
     "id": "v0",
     "deck": "vocab",
     "tag": "By the Letter",
