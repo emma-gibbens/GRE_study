@@ -198,12 +198,22 @@ const STYLES = `
 .sd-counter { font-family: 'IBM Plex Mono', monospace; font-size: 13px; color: var(--ink-soft); white-space: nowrap; }
 
 .sd-card-stage { display: flex; flex-direction: column; align-items: center; margin: 10px 0 18px; }
-.sd-flip-outer { width: 100%; max-width: 420px; height: 300px; perspective: 1400px; cursor: pointer; }
+.sd-flip-outer {
+  width: 100%; max-width: 420px; height: 300px;
+  perspective: 1400px;
+  -webkit-perspective: 1400px;
+  cursor: pointer;
+}
 .sd-flip-inner {
   position: relative; width: 100%; height: 100%;
-  transition: transform 0.5s cubic-bezier(.4,.2,.2,1); transform-style: preserve-3d;
+  transition: transform 0.5s cubic-bezier(.4,.2,.2,1);
+  transform-style: preserve-3d;
+  -webkit-transform-style: preserve-3d;
 }
-.sd-flip-inner.flipped { transform: rotateY(180deg); }
+.sd-flip-inner.flipped {
+  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+}
 .sd-face {
   position: absolute; inset: 0; border-radius: 14px;
   backface-visibility: hidden; -webkit-backface-visibility: hidden;
@@ -220,7 +230,10 @@ const STYLES = `
   content: ""; position: absolute; left: 40px; top: 0; bottom: 0; width: 1.5px; background: var(--rule-red);
   opacity: 0.55;
 }
-.sd-face-back { transform: rotateY(180deg); }
+.sd-face-back {
+  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+}
 .sd-tab {
   align-self: flex-start; font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; letter-spacing: 0.03em;
   text-transform: uppercase; color: #fff; padding: 3px 9px; border-radius: 5px; margin-bottom: 14px;
