@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "check-cards": "node scripts/check-cards.mjs"
+    "check-cards": "node scripts/check-cards.mjs",
+    "cards": "node scripts/manage-cards.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.383.0",

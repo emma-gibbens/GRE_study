@@ -1,12 +1,8 @@
 # Study Drawer
 
 GRE flashcards for vocabulary and math, with spaced repetition (Leitner boxes),
-tag filtering, and a streak counter. Progress is saved in your browser's
+tag filtering, and a streak counter. Progress is saved in the browser's
 localStorage, so it persists between visits on the same device and browser.
-
-Access at the following website: https://emma-gibbens.github.io/GRE_study/
-
-
 
 ## Run it locally
 
@@ -67,8 +63,26 @@ a public repo is usually fine, but it's your call.
 
 ## Adding, removing, or editing flashcards
 
-All flashcard content lives in one file: **`src/cards.json`**. It's a plain
-array, one card per entry:
+The easy way: run
+
+```bash
+npm run cards
+```
+
+That opens a small interactive tool in your terminal. Search for a card by
+typing a word (no scrolling through JSON needed), then add, edit, or delete
+it from a short numbered menu. Every change is saved to `src/cards.json`
+immediately and the file stays sorted and readable. When you're done, just
+push as usual:
+
+```bash
+git add .
+git commit -m "Update flashcards"
+git push
+```
+
+The hand-editing way still works too, if you'd rather. All flashcard content
+lives in **`src/cards.json`**, a plain array, one card per entry:
 
 ```json
 {
@@ -84,24 +98,14 @@ array, one card per entry:
 
 `deck` must be exactly `"vocab"` or `"math"`. `pos` and `example` are
 optional (math cards skip both). `id` just needs to be unique across the
-whole file, `v244`, `custom1`, anything you haven't used already is fine.
+whole file.
 
-**To edit a card:** find it (Cmd+F for the word or phrase) and change the
-text.
+Either way, this is different from the in-app "Add a card" form, which only
+saves to that one visitor's own browser and never touches this file. Editing
+`cards.json` (by hand or with `npm run cards`) is what everyone who visits
+the site actually sees, once it's pushed and deployed.
 
-**To remove a card:** delete its whole `{ ... }` block, including the comma
-that follows it (or precedes it, if you're deleting the last card in the
-file).
-
-**To add a card:** copy an existing block, paste it, give it a new `id`, and
-fill in the rest.
-
-Because this edits the source file directly, every visitor to the site sees
-your changes, not just you, once it's pushed and deployed. This is different
-from the in-app "Add a card" form, which only saves to that one visitor's own
-browser and never touches this file.
-
-**Before pushing**, it's worth running:
+**Before pushing a hand-edit**, it's worth running:
 
 ```bash
 npm run check-cards
@@ -110,6 +114,8 @@ npm run check-cards
 This catches the most common hand-editing mistakes, broken JSON syntax
 (a missing comma is the usual culprit), a duplicate id, a missing field, or
 a mistyped `deck` value, and tells you exactly which card has the problem.
+(`npm run cards` can't produce any of these, since it manages the ids and
+required fields for you, so this is really only needed after manual edits.)
 The GitHub Actions workflow runs this same check automatically before every
 deploy, so a bad edit fails the build with a clear message instead of
 quietly breaking the live site. The site only updates once a build succeeds,

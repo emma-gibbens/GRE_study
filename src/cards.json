@@ -24,8 +24,8 @@
     "id": "m18",
     "deck": "math",
     "tag": "Algebra Shortcuts",
-    "front": "Difference of squares",
-    "back": "a² − b² = (a + b)(a − b). One of the most common GRE factoring patterns."
+    "front": "Factoring the difference of squares (a² − b²)",
+    "back": "[a² − b² = (a + b)(a − b)"
   },
   {
     "id": "m21",
@@ -192,8 +192,8 @@
     "id": "m40",
     "deck": "math",
     "tag": "Geometry: Triangles & Angles",
-    "front": "Common right triangles",
-    "back": "3-4-5 and 5-12-13 triangles are common right triangle ratios worth memorizing so you can skip the Pythagorean theorem entirely."
+    "front": "3-4-5 and 5-12-13 triangles",
+    "back": "Common right triangle ratios worth memorizing so you can skip the Pythagorean theorem entirely."
   },
   {
     "id": "m42",
@@ -283,7 +283,7 @@
     "id": "m27",
     "deck": "math",
     "tag": "Number Properties",
-    "front": "Even/odd addition/multiplication rules",
+    "front": "Even/odd rules",
     "back": "Even + Even = Even. Odd + Odd = Even. Even + Odd = Odd. Even × anything = Even. Odd × Odd = Odd."
   },
   {
@@ -291,7 +291,7 @@
     "deck": "math",
     "tag": "Number Properties",
     "front": "Factors vs. multiples",
-    "back": "Factors of x divide evenly into it (if x=12: 1, 2, 3, 4, 6, 12). Multiples of x are what x divides into (12, 24, 36...)."
+    "back": "Factors of 12 divide evenly into it (1, 2, 3, 4, 6, 12). Multiples of 12 are what 12 divides into (12, 24, 36...)."
   },
   {
     "id": "m35",
@@ -376,6 +376,13 @@
     "tag": "Percentages & Ratios",
     "front": "Weighted average shortcut",
     "back": "A weighted average sits closer to the value with more weight. Three tests averaging 80 plus one test of 100 pulls the overall average only slightly above 80."
+  },
+  {
+    "id": "m59",
+    "deck": "math",
+    "tag": "Statistics & Probability",
+    "front": "Basic probability",
+    "back": "Probability = favorable outcomes ÷ total possible outcomes."
   },
   {
     "id": "m62",
@@ -495,13 +502,6 @@
     "tag": "Word Problem Strategies",
     "front": "Work rate problems",
     "back": "Rate = 1 job ÷ time. Combined rate = sum of individual rates. Combined time = 1 ÷ combined rate."
-  },
-  {
-    "id": "m72",
-    "deck": "math",
-    "tag": "Foundations",
-    "front": "First 10 prime numbers",
-    "back": "2 3 5 7 11 13 17 19 23 29"
   },
   {
     "id": "v0",
