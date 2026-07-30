@@ -283,7 +283,7 @@
     "id": "m27",
     "deck": "math",
     "tag": "Number Properties",
-    "front": "Even/odd rules",
+    "front": "Even/odd addition/multiplication rules",
     "back": "Even + Even = Even. Odd + Odd = Even. Even + Odd = Odd. Even × anything = Even. Odd × Odd = Odd."
   },
   {
@@ -291,7 +291,7 @@
     "deck": "math",
     "tag": "Number Properties",
     "front": "Factors vs. multiples",
-    "back": "Factors of 12 divide evenly into it (1, 2, 3, 4, 6, 12). Multiples of 12 are what 12 divides into (12, 24, 36...)."
+    "back": "Factors of x divide evenly into it (if x=12: 1, 2, 3, 4, 6, 12). Multiples of x are what x divides into (12, 24, 36...)."
   },
   {
     "id": "m35",
