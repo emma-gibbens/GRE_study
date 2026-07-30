@@ -217,6 +217,8 @@ const STYLES = `
 .sd-face {
   position: absolute; inset: 0; border-radius: 14px;
   backface-visibility: hidden; -webkit-backface-visibility: hidden;
+  transform: rotateY(0deg);
+  -webkit-transform: rotateY(0deg);
   background: var(--card); border: 1px solid var(--border);
   box-shadow: 0 8px 24px var(--shadow);
   padding: 26px 24px;
